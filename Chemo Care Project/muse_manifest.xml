@@ -1,0 +1,35 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="chemocareproject.org" resolutions="1x" timestamp="1446581018185">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="357024680" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="ccp4.jpg" crc="3844336519" seo="true" ref="index"/>
+    <file name="ccp banner (1).jpg" crc="4036286082" seo="true" ref="index"/>
+    <file name="u191-4.png" crc="4007303428" ref="index"/>
+    <file name="u177-4.png" crc="3951740071" ref="index"/>
+    <file name="u182-4.png" crc="221820530" ref="index"/>
+    <file name="u364-4.png" crc="56772638" ref="index"/>
+    <file name="u372-4.png" crc="4135019003" ref="index"/>
+    <file name="u377-4.png" crc="187536098" ref="index"/>
+    <file name="u382-4.png" crc="3842834228" ref="index"/>
+    <file name="u378-4.png" crc="404608119" ref="index"/>
+    <file name="u384-11.png" crc="3877400777" ref="index"/>
+    <file name="u379-4.png" crc="262086048" ref="index"/>
+    <file name="u385-40.png" crc="4075242444" ref="index"/>
+    <file name="u380-4.png" crc="4020502798" ref="index"/>
+    <file name="u393-15.png" crc="434747348" ref="index"/>
+    <file name="u381-4.png" crc="117439242" ref="index"/>
+    <file name="u395-6.png" crc="4003691483" ref="index"/>
+  </folder>
+  <file name="index.html" crc="184941711" seo="true" mt="1446566102377" redirect="true"/>
+</manifest>
